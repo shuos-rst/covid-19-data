@@ -1,0 +1,2 @@
+Last Updated: 4/24/2020
+Files from the NY-Times COVID Dataset (forked as covid-19-data(1) on github (or something similar to that))
