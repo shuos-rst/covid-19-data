@@ -1,4 +1,4 @@
-Last Updated: 4/26/2020
+Last Updated: 4/28/2020
 Files from the NY-Times COVID Dataset (forked as covid-19-data(1) on github (or something similar to that))
 Party affiliation data from: https://en.wikipedia.org/wiki/List_of_United_States_governors
 State population data from: https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population
