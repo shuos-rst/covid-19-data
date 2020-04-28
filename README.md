@@ -1,7 +1,5 @@
-<h1 id="dat-120-covid-project">DAT 120 COVID Project</h1>
-<p>Repo and data is a fork of the Our World in Data COVID-19 Data. <a href="https://public.tableau.com/views/DAT120COVID-19Project/DailyCasesvsDailyDeaths?:display_count=y&amp;publish=yes&amp;:origin=viz_share_link">For the tableau public visualization of the data, click here.</a></p>
-
-
-<h3 align="center">
-  The Our World in Data data on COVID-19 and its documentation is here <a href="/public/data"><strong><code>/public/data</code> ↗️</strong></a>.
-</h3>
+<h1 id="dat-120-covid-19-project">DAT 120 COVID-19 Project</h1>
+<p>Group 13</p>
+<p>Data in the folder labeled &quot;Public&quot; is from <a href="https://github.com/owid/covid-19-data">Our World in Data.</a> Data in a folder labeled &quot;ny-times-data&quot; is from <a href="https://github.com/nytimes/covid-19-data">The New York Times&#39; public COVID data</a> and from Wikipedia (<a href="https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States_by_population">population data</a>, <a href="https://en.wikipedia.org/wiki/List_of_United_States_governors">political affiliation data</a>). Data in the folder labeled &quot;govt-action-data&quot; is from <a href="https://github.com/COVID19StatePolicy/SocialDistancing">researchers at the University of Washington</a>.</p>
+<p>Only .csv files are raw data.</p>
+<p>Email: jonah.williams@wustl.edu </p>
